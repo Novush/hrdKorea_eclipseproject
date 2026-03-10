@@ -39,7 +39,7 @@
 		<td><input type="text" name="grade"></td>
 	</tr>
 		<tr>
-		<td align="center">도시코드</td>
+		<td align="center">거주도시</td>
 		<td><input type="text" name="city"></td>
 	</tr>
 		<tr>
