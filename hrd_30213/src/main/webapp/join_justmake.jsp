@@ -22,6 +22,10 @@
 		<td align="center">회원성명</td>
 		<td><input type="text" name="custname"></td>
 	</tr>
+		<tr>
+		<td align="center">회원전화</td>
+		<td><input type="text" name="phone"></td>
+	</tr>
 
 </table>
 
