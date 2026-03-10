@@ -11,6 +11,18 @@
 <body>
 <script type="text/javascript" src="check.js"></script>
 <jsp:include page="header.jsp"></jsp:include>
+<h2 align="center">홈쇼핑 회원 등록</h2>
+<form name="frm" action="joinok.jsp" method="post">
+<table border="1" align="center">
+	<tr>
+		<td>회원번호(자동발생)</td>
+		<td><input type="text" name="custno"></td>
+	</tr>
 
+</table>
+
+</form>
+
+<jsp:include page="footer.jsp"></jsp:include>
 </body>
 </html>
