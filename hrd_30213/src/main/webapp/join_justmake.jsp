@@ -18,6 +18,11 @@
 		<td>회원번호(자동발생)</td>
 		<td><input type="text" name="custno"></td>
 	</tr>
+	</tr>
+		<tr>
+		<td align="center">회원성명</td>
+		<td><input type="text" name="custname"></td>
+	</tr>
 
 </table>
 
