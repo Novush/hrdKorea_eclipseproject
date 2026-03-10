@@ -11,7 +11,7 @@
 <body>
 <script type="text/javascript" src="check.js"></script>
 <jsp:include page="header.jsp"></jsp:include>
-<h2 align="center">홈쇼핑 회원 등록</h2>
+<h2 align="center">쇼핑몰 회원 등록</h2>
 <form name="frm" method="post" action="">
 <table border="1" align="center">
 	<tr>
