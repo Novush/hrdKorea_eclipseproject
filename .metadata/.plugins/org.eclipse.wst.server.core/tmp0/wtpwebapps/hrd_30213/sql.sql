@@ -22,6 +22,8 @@ select * from member_tbl_02;
 
 
 
+
+
 create table money_tbl_02(
 custno number(6) not null,
 salenol number(8) not null,
