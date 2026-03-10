@@ -15,7 +15,7 @@
 <form name="frm" action="joinok.jsp" method="post">
 <table border="1" align="center">
 	<tr>
-		<td>회원번호(자동발생)</td>
+		<td align="center">회원번호(자동발생)</td>
 		<td><input type="text" name="custno"></td>
 	</tr>
 		<tr>
@@ -35,7 +35,7 @@
 		<td><input type="text" name="joindate"></td>
 	</tr>
 		<tr>
-		<td align="center">고객등급[A:VIP,B:일반,C:직원]</td>
+		<td align="center">고객등급</td>
 		<td><input type="text" name="grade"></td>
 	</tr>
 		<tr>
