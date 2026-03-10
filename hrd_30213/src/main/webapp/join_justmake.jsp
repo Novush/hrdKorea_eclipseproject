@@ -43,9 +43,9 @@
 		<td><input type="text" name="city"></td>
 	</tr>
 		<tr>
-		<td align="center" colspan="2">
-			<input type="submit" value="등록" onclick="return Chk()">
-			<input type="submit" value="조회"></td>
+		<td align="center" colspan="2"> <input type="submit" value="등록" onclick="return Chk()">
+										<input type="submit" value="조회">
+		</td>
 	</tr>
 </table>
 
