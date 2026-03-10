@@ -30,7 +30,7 @@ function joinCheck(){
 		return false;
 	}	
 	if(document.frm.city.value==""){
-		alert("도시코드가 입력되지 않았습니다!");
+		alert("도시코드가 입력되지 않았습니다!"); // 거주도시
 		document.frm.city.focus();
 		return false;
 	}	
