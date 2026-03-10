@@ -26,7 +26,27 @@
 		<td align="center">회원전화</td>
 		<td><input type="text" name="phone"></td>
 	</tr>
-
+		<tr>
+		<td align="center">회원주소</td>
+		<td><input type="text" name="address"></td>
+	</tr>
+		<tr>
+		<td align="center">가입일자</td>
+		<td><input type="text" name="joindate"></td>
+	</tr>
+		<tr>
+		<td align="center">고객등급[A:VIP,B:일반,C:직원]</td>
+		<td><input type="text" name="grade"></td>
+	</tr>
+		<tr>
+		<td align="center">도시코드</td>
+		<td><input type="text" name="city"></td>
+	</tr>
+		<tr>
+		<td align="center" colspan="2">
+			<input type="submit" value="등록" onclick="return Chk()">
+			<input type="submit" value="조회"></td>
+	</tr>
 </table>
 
 </form>
