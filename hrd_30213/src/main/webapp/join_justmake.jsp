@@ -12,7 +12,7 @@
 <script type="text/javascript" src="check.js"></script>
 <jsp:include page="header.jsp"></jsp:include>
 <h2 align="center">쇼팡몰 회원 등록</h2>
-<form name="frm" method="post" action="">
+<form name="frm" method="post" action="joinok.jsp">
 <table border="1" align="center">
 	<tr>
 		<td align="center">회원번호(자동발생)</td>
