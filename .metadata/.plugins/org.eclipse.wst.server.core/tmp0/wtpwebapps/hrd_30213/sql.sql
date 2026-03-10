@@ -9,3 +9,4 @@ create table member_tbl_02(
 	primary key(custno)
 );
 
+insert into member_tbl_02 values(100001,'김행복','010-1111-2222','서울 동대문구 휘경1동','20251202','A','01');
