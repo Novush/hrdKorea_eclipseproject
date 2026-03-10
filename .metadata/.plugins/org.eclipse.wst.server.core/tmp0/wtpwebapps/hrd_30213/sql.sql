@@ -8,3 +8,4 @@ create table member_tbl_02(
 	city char(2).
 	primary key(custno)
 );
+
