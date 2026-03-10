@@ -1,2 +1,0 @@
-<%@ include file="db.jsp" %>
-<%request.setCharacterEncoding("utf-8"); %>
